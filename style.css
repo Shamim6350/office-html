@@ -1,0 +1,14 @@
+.mainpage{background-color: rgb(29, 12, 182);}
+body{font-size: 20px; width:960px;margin-left:200px;background-color:gray;}
+.header{}
+.menu {background-color: darkcyan;}
+
+.header img{padding:0;} 
+.menu ul{display: inline;overflow: hidden;}
+.menu ul li{display: inline-block;padding: 20px;}
+.menu ul li a{text-decoration: none;display: block;}
+.menu ul li a:hover{background-color: chartreuse;}
+.content{float: left;width: 600px;padding: 10px;}
+.sidebar{float: right;width: 300px;padding: 10px}
+.footer{background-color:darkcyan;padding: 1px;}
+.maincontent{overflow: hidden;background-color: cornflowerblue;}
